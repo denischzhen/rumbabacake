@@ -1,0 +1,237 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+  font-family: inherit;
+}
+.All_header_menu{
+  box-shadow: 0px 5px 20px black;
+  background-color: rgb(220, 20, 60);
+  color: white;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  font-size: 28px;
+  font-family: cursive;
+}
+.undername{
+  font-size: 17px;
+  font-weight: lighter;
+}
+.rumbabacake | торты на заказ li {
+  display: inline-block;
+}
+body{
+  background-image: url(photo1.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.Top_menu {
+      padding: 6px 8px 6px 16px;
+      font-size: 32px;
+      color: #f2eded;
+      display: block;
+      text-align: left;
+      font-family: cursive;
+  }
+.Top_menu a:hover {
+      color: #0a0a0a;
+  }
+.main {
+      margin-left: 160px;
+      padding: 0px 10px;
+  }
+  @media screen and (max-height: 450px) {
+      .Top_menu {padding-top: 15px;}
+      .Top_menu a {font-size: 18px;}
+  }
+ul{
+  list-style-type: none;
+}
+.Top_menu{
+  box-shadow: 0px 5px 20px black;
+  margin-left: 30px;
+  background-color: rgb(220, 20, 60);
+  width: 200px;
+  height: 590px;
+  position: fixed;
+  z-index: 1;
+  overflow-x: hidden;
+  border-radius: 20px;
+  padding-top: 25px;
+  margin-top: 50px;
+  position: fixed;
+}
+.Ikonka_tovara17{
+  background-color: rgb(220, 20, 60);
+  margin-left: 330px;
+  margin-top: 50px;
+  padding-top: 20px;
+  width: 230px;
+  height: 215px;
+  border-radius: 15px;
+  display: inline-block;
+  padding-bottom: 20px;
+}
+.makaron1 {
+  height: 170px;
+  width: 185px;
+  margin-left: 23px;
+  border-radius: 30px;
+}
+.Ikonka_tovara17:hover{
+  box-shadow: 0px 5px 20px grey;
+  background-color: rgb(178, 34, 34);
+}
+.Ikonka_tovara18{
+  background-color: rgb(220, 20, 60);
+  margin-left: 100px;
+  margin-top: 70px;
+  padding-top: 20px;
+  width: 230px;
+  height: 215px;
+  border-radius: 15px;
+  display: inline-block;
+  padding-bottom: 20px;
+}
+.makaron2 {
+  height: 170px;
+  width: 185px;
+  margin-left: 23px;
+  border-radius: 30px;
+}
+.Ikonka_tovara18:hover{
+  box-shadow: 0px 5px 20px grey;
+  background-color: rgb(178, 34, 34);
+}
+.Ikonka_tovara19{
+  background-color: rgb(220, 20, 60);
+  margin-left: 100px;
+  margin-top: 70px;
+  padding-top: 20px;
+  width: 230px;
+  height: 215px;
+  border-radius: 15px;
+  display: inline-block;
+  padding-bottom: 20px;
+}
+.makaron3 {
+  height: 170px;
+  width: 185px;
+  margin-left: 23px;
+  border-radius: 30px;
+}
+.Ikonka_tovara19:hover{
+  box-shadow: 0px 5px 20px grey;
+  background-color: rgb(178, 34, 34);
+}
+.Ikonka_tovara20{
+  background-color: rgb(220, 20, 60);
+  margin-left: 100px;
+  margin-top: 70px;
+  padding-top: 20px;
+  width: 230px;
+  height: 215px;
+  border-radius: 15px;
+  display: inline-block;
+  padding-bottom: 20px;
+}
+.makaron4 {
+  height: 170px;
+  width: 185px;
+  margin-left: 23px;
+  border-radius: 30px;
+}
+.Ikonka_tovara20:hover{
+  box-shadow: 0px 5px 20px grey;
+  background-color: rgb(178, 34, 34);
+}
+.Ikonka_tovara21{
+  background-color: rgb(220, 20, 60);
+  margin-left: 330px;
+  margin-top: 70px;
+  padding-top: 20px;
+  width: 230px;
+  height: 215px;
+  border-radius: 15px;
+  display: inline-block;
+  padding-bottom: 20px;
+}
+.makaron5 {
+  height: 170px;
+  width: 185px;
+  margin-left: 23px;
+  border-radius: 30px;
+}
+.Ikonka_tovara21:hover{
+  box-shadow: 0px 5px 20px grey;
+  background-color: rgb(178, 34, 34);
+}
+.Ikonka_tovara22{
+  background-color: rgb(220, 20, 60);
+  margin-left: 100px;
+  margin-top: 70px;
+  padding-top: 20px;
+  width: 230px;
+  height: 215px;
+  border-radius: 15px;
+  display: inline-block;
+  padding-bottom: 20px;
+}
+.makaron6 {
+  height: 170px;
+  width: 185px;
+  margin-left: 23px;
+  border-radius: 30px;
+}
+.Ikonka_tovara22:hover{
+  box-shadow: 0px 5px 20px grey;
+  background-color: rgb(178, 34, 34);
+}
+.Ikonka_tovara23{
+  background-color: rgb(220, 20, 60);
+  margin-left: 100px;
+  margin-top: 70px;
+  padding-top: 20px;
+  width: 230px;
+  height: 215px;
+  border-radius: 15px;
+  display: inline-block;
+  padding-bottom: 20px;
+}
+.makaron7 {
+  height: 170px;
+  width: 185px;
+  margin-left: 23px;
+  border-radius: 30px;
+}
+.Ikonka_tovara23:hover{
+  box-shadow: 0px 5px 20px grey;
+  background-color: rgb(178, 34, 34);
+}
+.Ikonka_tovara24{
+  background-color: rgb(220, 20, 60);
+  margin-left: 100px;
+  margin-top: 70px;
+  padding-top: 20px;
+  width: 230px;
+  height: 215px;
+  border-radius: 15px;
+  display: inline-block;
+  padding-bottom: 20px;
+}
+.makaron8 {
+  height: 170px;
+  width: 185px;
+  margin-left: 23px;
+  border-radius: 30px;
+}
+.Ikonka_tovara24:hover{
+  box-shadow: 0px 5px 20px grey;
+  background-color: rgb(178, 34, 34);
+}

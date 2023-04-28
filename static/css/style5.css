@@ -1,0 +1,129 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+  font-family: inherit;
+}
+.All_header_menu{
+  box-shadow: 0px 5px 20px black;
+  background-color: rgb(220, 20, 60);
+  color: white;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  font-size: 28px;
+  font-family: cursive;
+}
+.undername{
+  font-size: 17px;
+  font-weight: lighter;
+}
+.rumbabacake | торты на заказ li {
+  display: inline-block;
+}
+body{
+  background-image: url(photo1.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.Top_menu {
+      padding: 6px 8px 6px 16px;
+      font-size: 32px;
+      color: #f2eded;
+      display: block;
+      text-align: left;
+      font-family: cursive;
+  }
+.Top_menu a:hover {
+      color: #0a0a0a;
+  }
+.main {
+      margin-left: 160px;
+      padding: 0px 10px;
+  }
+  @media screen and (max-height: 450px) {
+      .Top_menu {padding-top: 15px;}
+      .Top_menu a {font-size: 18px;}
+  }
+ul{
+  list-style-type: none;
+}
+.Top_menu{
+  box-shadow: 0px 5px 20px black;
+  margin-left: 30px;
+  background-color: rgb(220, 20, 60);
+  width: 200px;
+  height: 590px;
+  position: fixed;
+  z-index: 1;
+  overflow-x: hidden;
+  border-radius: 20px;
+  padding-top: 25px;
+  margin-top: 50px;
+  position: fixed;
+}
+.social-icons {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin-top: 10px;
+  margin-bottom: 1rem;
+  padding-left: 0;
+}
+.social-icons>li {
+  margin-left: 2.5rem;
+  margin-right: 2.5rem;
+  margin-top: 10px;
+}
+.social-icons a {
+  position: relative;
+  background-color: #eee;
+  display: block;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  transition: background-color: .3s ease-in-out;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 9px;
+}
+.social-icons a:hover {
+  background: url("1640px-Instagram_icon.png");
+  background-size: 100%;
+
+  z-index: 0;
+}
+.social-icons a::before {
+  content: "";
+  position: absolute;
+  width: 5rem;
+  height: 5rem;
+}
+.social-icons .social-icon-telegram::before {
+  background-image: url("http://toplogos.ru/images/logo-telegram.png");
+  background-size: 100%;
+  border-radius: 9px;
+}
+.social-icons .social-icon-instagram::before {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png");
+  background-size: 100%;
+}
+.social-icons .social-icon-vk::before {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/2048px-VK_Compact_Logo_%282021-present%29.svg.png");
+  background-size: 100%;
+}
+.field{
+  box-shadow: 0px 5px 20px black;
+  margin-left: 350px;
+  margin-top: 50px;
+  background-color: white;
+  width: 1200px;
+  height: 620px;
+  border-radius: 20px;
+}
